@@ -88,7 +88,7 @@ Busco oportunidade de crescimento na área de **desenvolvimento** para aplicar m
 
 ---
 
-### 🕹️ Contribuições em formato Pac-Man
+### 🕹️ 
 
 <p align="center">
   <picture>
