@@ -82,8 +82,8 @@ Busco oportunidade de crescimento na área de **desenvolvimento** para aplicar m
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitormussarelli&show_icons=true&theme=dracula" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormussarelli&layout=compact&theme=dracula" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=vitor-mussarelli&show_icons=true&theme=dracula" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-mussarelli&layout=compact&theme=dracula" alt="Top Langs">
 </p>
 
 ---
