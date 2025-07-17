@@ -91,5 +91,5 @@ Busco oportunidade de crescimento na área de **desenvolvimento** para aplicar m
 ### 🕹️ Contribuições em formato Pac-Man
 
 <p align="center">
-  <img src="https://github.com/vitormussarelli/vitormussarelli/raw/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
+  <img src="https://github.com/vitormussarelli/vitormussarelli/raw/output/pacman-contribution-graph-dark" alt="Pac-Man Contribution Graph" />
 </p>
