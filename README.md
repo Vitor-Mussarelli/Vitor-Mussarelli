@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Olá! Eu sou o Vitor Mussarelli</h1>
-<h3 align="center">Analista de Suporte Técnico Pleno III | Especialista em Sistemas Logísticos e Banco de Dados</h3>
+<h3 align="center">Analista de Suporte Técnico Pleno III | Especialista em Sistemas Logísticos | Tecnologia em Banco de Dados | MySQL | Phyton </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vitor-bissoli-mussarelli-382ab7264">
