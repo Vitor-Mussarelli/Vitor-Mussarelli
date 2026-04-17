@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Olá! Eu sou o Vitor Mussarelli</h1>
-<h3 align="center">Analista de Suporte Técnico Pleno III | Especialista em Sistemas Logísticos | Tecnologia em Banco de Dados | MySQL | Phyton </h3>
+<h3 align="center">Analista de Dados | SQL Server | Power BI | Python | API REST</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vitor-bissoli-mussarelli-382ab7264">
@@ -18,7 +18,13 @@
 
 ### 👨‍💼 Sobre mim
 
-Sou profissional com mais de **5 anos de experiência em Suporte Técnico e Análise de Sistemas**, com forte atuação em soluções voltadas ao setor **logístico**. Especialista em **SQL Server**, **integrações via API/EDI**, **documentação técnica** e **dashboards com Power BI**. Atualmente, atuo na gestão de projetos técnicos e transformação de dados em insights estratégicos.
+Com mais de 5 anos de experiência no ecossistema de tecnologia para logística, minha trajetória é marcada pela transformação de dados brutos em inteligência estratégica. Atualmente, foco em otimizar processos e sustentar ambientes complexos utilizando SQL Server e Python.
+
+Minha abordagem vai além do suporte técnico: busco ativamente gargalos para transformá-los em eficiência. Recentemente, desenvolvi automações em Python que eliminaram auditorias manuais, integrando APIs e alimentando dashboards em Power BI que hoje guiam a tomada de decisão da diretoria.
+
+Sou entusiasta de metodologias ágeis e acredito que a visibilidade é a chave para a performance. No meu dia a dia, gerencio fluxos de trabalho via Kanban, priorizando a análise de cards ativos para garantir que o Lead Time da equipe seja sempre otimizado.
+
+Estou em transição para áreas de Dados ou Desenvolvimento, onde posso aplicar meu domínio em T-SQL, modelagem de dados e automação para construir soluções robustas e escaláveis
 
 ---
 
@@ -26,19 +32,23 @@ Sou profissional com mais de **5 anos de experiência em Suporte Técnico e Aná
 
 **ESL Sistemas**  
 📅 *Ago/2018 - Presente*  
-📌 *Analista de Suporte Técnico Pleno III*  
-- Gestão de projetos de integração (API/EDI) com clientes.  
-- Criação de dashboards em Power BI para monitoramento.  
-- Otimização de queries SQL, Triggers, Views, Stored Procedures.  
-- Migração e performance tuning de servidores SQL Server.  
-- Atendimento via Zendesk com foco em agilidade e eficiência.
+📌 *Analista de Dados*  
+- Inteligência de Dados e Automação: Projetei e implementei scripts em Python para extração de dados via API do Jira, automatizando o fluxo de informações para o SQL Server. Essa iniciativa diminui as conferências manuais e aumentou a confiabilidade dos dados de produtividade.
+  
+- Business Intelligence (BI) e Visibilidade Operacional: Desenvolvi dashboards estratégicos no Power BI para monitoramento de rentabilidade (Estimado vs. Real) e gestão de produtividade. Implementei KPIs focados na visibilidade de projetos pendentes e prazos de vencimento, garantindo à gerência o controle de custos em tempo real e munindo os analistas com dados para a gestão proativa de cards ativos, mitigando atrasos e otimizando as entregas.
+  
+- Sustentação SQL Server: Responsável pela performance e integridade de bancos de dados, atuando com T-SQL avançado, criação de Stored Procedures, Triggers e Views, além de liderar projetos  de migração de servidores.
+  
+- Gestão de Fluxo (Kanban): Atuação direta com metodologia Kanban no Jira e Notion, focando no monitoramento de métricas como Lead Time e na gestão de cards ativos para garantir a fluidez das entregas e mitigação de gargalos.
+
+- Qualidade em Integrações: Validação técnica de fluxos API/EDI e estruturas JSON, assegurando a conformidade das regras de negócio antes da implementação em produção.
 
 ---
 
 ### 🎓 Formação Acadêmica
 
 **Tecnologia em Banco de Dados - UNINTER**  
-📆 Previsão de conclusão: Dezembro/2025
+📆 Conclusão: Agosto/2025
 
 ---
 
@@ -75,7 +85,7 @@ Sou profissional com mais de **5 anos de experiência em Suporte Técnico e Aná
 
 ### 🎯 Objetivo
 
-Busco oportunidade de crescimento na área de **desenvolvimento** para aplicar meu conhecimento técnico, expandir minha atuação e contribuir com soluções inovadoras para as empresas.
+Busco oportunidade de crescimento na área de **Desenvolvimento** e **Analise de Dados** para aplicar meu conhecimento técnico, expandir minha atuação e contribuir com soluções inovadoras para as empresas.
 
 ---
 
