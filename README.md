@@ -47,7 +47,10 @@ Estou em transição para áreas de Dados ou Desenvolvimento, onde posso aplicar
 
 ### 🎓 Formação Acadêmica
 
-**Tecnologia em Banco de Dados - UNINTER**  
+**Pós-graduação em Ciências de Dados e Inteligência Artificial - UNINTER**
+📆 Conclusão: Novembro/2026
+
+**Tecnologia em Banco de Dados - UNINTER**
 📆 Conclusão: Agosto/2025
 
 ---
