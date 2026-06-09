@@ -95,8 +95,7 @@ Busco oportunidade de crescimento na área de **Desenvolvimento** e **Analise de
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=vitor-mussarelli&show_icons=true&theme=dracula" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=vitor-mussarelli&layout=compact&theme=dracula" alt="Top Langs" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitor-mussarelli&theme=dracula" alt="GitHub Streak Stats" height="180">
 </p>
 
 ---
