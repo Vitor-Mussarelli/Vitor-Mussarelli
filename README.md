@@ -51,7 +51,7 @@ Estou em transição para áreas de Dados ou Desenvolvimento, onde posso aplicar
   * 📆 Conclusão: Novembro/2026
 
 * **Tecnologia em Banco de Dados** – UNINTER
-  * 📆 Conclusão: Agosto/2025
+  * 📆 Conclusão: Setembro/2025
 
 ---
 
